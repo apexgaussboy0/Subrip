@@ -216,3 +216,6 @@ SubRip is offered as a full free version, allowing you to extract subtitles with
 ---
 
 Start your subtitle extraction journey today with SubRip! Download now and enjoy seamless access to your favorite subtitles.
+
+---
+**Last updated:** 2026-09-13 20:01:19 UTC
